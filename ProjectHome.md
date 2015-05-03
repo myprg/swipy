@@ -1,0 +1,1 @@
+Python wrapper (via ctypes) for SWI-Prolog
